@@ -1,0 +1,9 @@
+html,
+body {
+  margin: 0 !important;
+  max-width: 600px !important;
+}
+
+#app {
+  width: 100%;
+}
